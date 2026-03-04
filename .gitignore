@@ -1,0 +1,10 @@
+bin/
+build/
+.vs/
+out/
+*.user
+*.sln
+*.vcxproj*
+x64/
+Debug/
+Release/
